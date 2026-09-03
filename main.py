@@ -91,9 +91,9 @@ def testes():
     mostrar(r)
     print("    objetos:", contar(r), "| esperado: 3")
     if np.array_equal(r, RESPOSTA):
-        print("    a matriz bateu com a resposta da aula")
+        print("    a matriz bateu ")
     else:
-        print("    ERRO: matriz diferente da resposta da aula")
+        print("    ERRO: matriz diferente ")
 
     print("\nExemplo da aula, 8-conectado:")
     r = rotular(EXEMPLO, 1, 8)

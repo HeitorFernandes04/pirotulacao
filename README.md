@@ -70,6 +70,7 @@ visitadas. O resto do algoritmo é igual.
 - `rotulacao.py` — binarização e o algoritmo
 - `main.py` — programa principal e os testes
 - `teste.png` — imagem de teste com 7 objetos
+- `criar_teste.py` — gera a `teste.png`
 
 ## Testes
 
